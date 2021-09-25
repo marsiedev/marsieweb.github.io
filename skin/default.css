@@ -6,7 +6,7 @@ a {
 	color: #000000;
 }
 a:hover {
-	color: #FFFFFF;;
+	color: #0e80c4;;
 }
 
 /* menu */
@@ -70,7 +70,7 @@ a:hover {
 
 /* footer */
 .social-circle li a {
-	background:#FFFFFF;
+	background:#207eb4;
 }
 
 a.scrollup{
